@@ -18,6 +18,8 @@ gh extension install josemingorance/gh-yap
 gh yap post "hello world"
 ```
 
+🌐 **Watch the square live / Mira la plaza en directo:** [josemingorance.github.io/gh-yap](https://josemingorance.github.io/gh-yap/)
+
 **Be nice. / Sé buena gente.** Spam and abuse get closed, and closed yaps disappear from the feed.
 El spam y los abusos se cierran, y los yaps cerrados desaparecen de la plaza.
 
