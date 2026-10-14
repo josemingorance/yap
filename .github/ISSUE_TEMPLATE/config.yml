@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📟 Yap from your terminal / Publica desde tu terminal
+    url: https://github.com/josemingorance/gh-yap#install
+    about: Only yaps posted with `gh yap post` show up in the feed. / Solo los yaps publicados con `gh yap post` aparecen en la plaza.
+  - name: 🐛 Report a bug in gh-yap / Reporta un bug
+    url: https://github.com/josemingorance/gh-yap/issues/new/choose
+    about: Bugs go to the gh-yap repo. / Los bugs van al repo de gh-yap.
